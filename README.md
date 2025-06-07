@@ -1,5 +1,33 @@
 # 💫 About Me:
-🛠️ I’m currently working on<br>Developing an AI-powered Music Recommendation Web Application – Smart Music Analyser – using Python, Librosa, HTML, CSS, and JavaScript. The project aims to analyze audio files and recommend tracks via Spotify and YouTube integration.<br>I'm also designing and developing my portfolio website using Figma and Wix Studio, with a focus on dark UI, smooth user experience, and responsive design.<br><br>🤝 I’m looking to collaborate on<br>Front-end development projects (especially with creative or musical elements)<br><br>UI/UX design collaborations<br><br>AI-based tools or web apps in the creative tech space<br><br>🙋‍♂️ I’m looking for help with<br>Optimizing audio feature extraction using Librosa<br><br>Enhancing third-party API integrations (Spotify, YouTube)<br><br>Advanced design systems in Figma and responsive design patterns<br><br>🌱 I’m currently learning<br>JavaScript (Advanced)<br><br>UI/UX Design best practices<br><br>Music theory and production basics<br><br>Audio signal processing for real-time analysis<br><br>💬 Ask me about<br>Designing and building websites with Wix Studio and Figma<br><br>Creating clean, modern UI layouts in dark themes<br><br>Building chatbots and automation workflows<br><br>Combining music and machine learning into functional applications<br><br>⚡ Fun fact<br>While I work across tech and design, my core drive is to build experiences—not just websites or apps. Whether it's a landing page or a music analyzer, everything I build reflects a fusion of creativity and precision.
+<b>🛠️ Currently Working On</b><br>
+Developing <strong>Smart Music Analyzer</strong>, an AI-powered music recommendation web app using <strong>Python, Librosa, HTML, CSS</strong>, and <strong>JavaScript</strong>. It analyzes audio files and suggests tracks via <strong>Spotify</strong> and <strong>YouTube</strong> integration.<br>
+Also building my <strong>personal portfolio website</strong> with <strong>Figma</strong> and <strong>Wix Studio</strong>, focused on a <strong>dark UI</strong>, <strong>responsive design</strong>, and smooth UX.<br><br>
+
+<b>🤝 Open to Collaborations In</b><br>
+• Creative <strong>front-end development</strong><br>
+• Engaging <strong>UI/UX design</strong> projects<br>
+• Innovative <strong>AI-based tools</strong> or <strong>music tech apps</strong><br><br>
+
+<b>🙋‍♂️ Looking for Help With</b><br>
+• <strong>Audio feature extraction</strong> using Librosa<br>
+• Integrating <strong>Spotify & YouTube APIs</strong><br>
+• Building scalable design systems in <strong>Figma</strong><br><br>
+
+<b>🌱 Currently Learning</b><br>
+• <strong>Advanced JavaScript</strong><br>
+• <strong>UI/UX best practices</strong><br>
+• <strong>Music theory & production</strong> fundamentals<br>
+• <strong>Audio signal processing</strong> for real-time analysis<br><br>
+
+<b>💬 Ask Me About</b><br>
+• Designing and building with <strong>Wix Studio & Figma</strong><br>
+• Creating modern <strong>dark-themed UI</strong> layouts<br>
+• <strong>Chatbots, automation</strong>, and no-code tools<br>
+• Fusing <strong>music</strong> with <strong>machine learning</strong><br><br>
+
+<b>⚡ Fun Fact</b><br>
+I love building <strong>experiences</strong>, not just interfaces. Whether it's a landing page or a smart music tool, my work is a mix of creativity and code, crafted with purpose and personality 🎧🎨
+
 
 
 ## 🌐 Socials:
