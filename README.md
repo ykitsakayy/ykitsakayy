@@ -1,29 +1,27 @@
 # 💫 About Me:
+
 <b>🛠️ Currently Working On</b><br>
-Developing <strong>Smart Music Analyzer</strong>, an AI-powered music recommendation web app using <strong>Python, Librosa, HTML, CSS</strong>, and <strong>JavaScript</strong>. It analyzes audio files and suggests tracks via <strong>Spotify</strong> and <strong>YouTube</strong> integration.<br>
-Also building my <strong>personal portfolio website</strong> with <strong>Figma</strong> and <strong>Wix Studio</strong>, focused on a <strong>dark UI</strong>, <strong>responsive design</strong>, and smooth UX.<br><br>
+Completing my <strong>CODSOFT internship tasks</strong> to strengthen development and design skills.<br>
+Planning to build my <strong>personal portfolio website</strong> with <strong>Figma</strong> and <strong>Wix Studio</strong>, focused on a <strong>dark UI</strong>, <strong>responsive design</strong>, and smooth UX.<br><br>
 
 <b>🤝 Open to Collaborations In</b><br>
 • Creative <strong>front-end development</strong><br>
 • Engaging <strong>UI/UX design</strong> projects<br>
-• Innovative <strong>AI-based tools</strong> or <strong>music tech apps</strong><br><br>
+• Projects involving <strong>Wix & Figma</strong><br><br>
 
 <b>🙋‍♂️ Looking for Help With</b><br>
-• <strong>Audio feature extraction</strong> using Librosa<br>
-• Integrating <strong>Spotify & YouTube APIs</strong><br>
-• Building scalable design systems in <strong>Figma</strong><br><br>
+• Mastering advanced <strong>design tools & techniques</strong><br>
+• Exploring efficient and scalable <strong>design systems</strong><br><br>
 
 <b>🌱 Currently Learning</b><br>
-• <strong>Advanced JavaScript</strong><br>
-• <strong>UI/UX best practices</strong><br>
-• <strong>Music theory & production</strong> fundamentals<br>
-• <strong>Audio signal processing</strong> for real-time analysis<br><br>
+• Getting better at <strong>JavaScript</strong><br>
+• Exploring <strong>Angular</strong> for front-end development<br>
+• Learning how to use <strong>AI in designing</strong><br><br>
 
 <b>💬 Ask Me About</b><br>
 • Designing and building with <strong>Wix Studio & Figma</strong><br>
 • Creating modern <strong>dark-themed UI</strong> layouts<br>
-• <strong>Chatbots, automation</strong>, and no-code tools<br>
-• Fusing <strong>music</strong> with <strong>machine learning</strong><br><br>
+• Crafting efficient <strong>UI/UX design systems</strong><br><br>
 
 <b>⚡ Fun Fact</b><br>
 I love building <strong>experiences</strong>, not just interfaces. Whether it's a landing page or a smart music tool, my work is a mix of creativity and code, crafted with purpose and personality 🎧🎨
